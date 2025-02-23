@@ -1,0 +1,31 @@
+{
+  "name": "steam-discount",
+  "version": "1.0.0",
+  "description": "Steamdeki indirimleri discord'a gönderir.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "discount",
+    "steam"
+  ],
+  "homepage": "https://github.com/wondexz/steam-discount#readme",
+  "bugs": {
+    "url": "https://github.com/wondexz/steam-discount/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wondexz/steam-discount.git"
+  },
+  "license": "MIT",
+  "author": "wondexz & speste",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "chalk": "^5.4.1",
+    "discord.js": "^14.18.0",
+    "fs": "^0.0.1-security",
+    "resthaven": "^0.0.3"
+  }
+}
