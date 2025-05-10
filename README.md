@@ -13,5 +13,5 @@
 - [discord.js](https://npmjs.com/package/discord.js)
 - [axios](https://npmjs.com/package/axios)
 - [fs](https://npmjs.com/package/fs)
-- [resthaven](https://npmjs.com/package/resthaven)
+- [wio.db](https://npmjs.com/package/wio.db)
 - [chalk](https://npmjs.com/package/chalk)
