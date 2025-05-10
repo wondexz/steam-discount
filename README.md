@@ -15,6 +15,3 @@
 - [fs](https://npmjs.com/package/fs)
 - [resthaven](https://npmjs.com/package/resthaven)
 - [chalk](https://npmjs.com/package/chalk)
-
-## Destek
-- https://discord.gg/altyapilar
